@@ -15,10 +15,5 @@ export const work =[
       w_name: "Apple clone",
       w_desc:"A website clone with HTML and CSS.",
     },
-    {
-      w_no: "03",
-      w_name: "Apple clone",
-      w_desc:"A website clone with HTML and CSS.",
-    },
    
 ];
